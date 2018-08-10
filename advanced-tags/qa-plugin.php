@@ -18,9 +18,7 @@ if (!defined('QA_VERSION')) { // don't allow this page to be requested directly 
 	exit;
 }
 
-	qa_register_plugin_module('page', 'at-edit.php', 'at_edit_page', 'Tag Edit Page');
 	qa_register_plugin_overrides('at-overrides.php');
-	qa_register_plugin_layer('at-layer.php', 'Advanced Tags Layer');
 	qa_register_plugin_phrases('at-lang-*.php', 'at_lang');
 
 	function at_html_suggest_edit_tags($tag)
