@@ -1,0 +1,12 @@
+{
+	"name": "Advanced Tags",
+	"description": "Advance your tags with description, image, wiki, adverts and so much more",
+	"version": "1.0",
+	"date": "2018-08-10",
+	"author": "Jackson Siro",
+	"author_uri": "https://github.com/Jacksiro/",
+	"license": "GPLv3",
+	"update_uri": "https://github.com/Jacksiro/Q2A-Advanced-Tags-Plugin/master/metadata.json",
+	"min_q2a": "1.6",
+	"min_php": "5.4"
+}
