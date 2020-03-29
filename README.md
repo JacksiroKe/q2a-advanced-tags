@@ -7,11 +7,11 @@ Features in this plugin to be shown on the tag page (refer to stackoverflow tag 
 3. Add a tag wiki/url to a tag
 4. Add a sponsored content to a tag
 
-<img src="at-edit.png" />
+<img src="screenshots/at-edit.png" />
 Edit a Tag
 .
 
-<img src="at-tag.png" />
+<img src="screenshots/at-tag.png" />
 View a Tag
 
 Price: $ 30
