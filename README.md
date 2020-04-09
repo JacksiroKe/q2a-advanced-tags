@@ -2,7 +2,7 @@
 Advance your tags with description, image, wiki, adverts and so much more
 
 ## Installing Instructions
-If you have never installed my Q2A plugins before please consider checking the [Installation Guide](https://github.com/JacksiroKe/q2a-advanced-tags/edit/master/INSTALLING.md)
+If you have never installed my Q2A plugins before please consider checking the [Installation Guide](https://github.com/JacksiroKe/q2a-advanced-tags/blob/master/INSTALLING.md)
 
 <img src="screenshots/at-edit.png" />
 Edit a Tag
